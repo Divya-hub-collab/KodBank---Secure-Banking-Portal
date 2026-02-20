@@ -1,0 +1,5 @@
+{
+  "name": "KodBank - Secure Banking Portal",
+  "description": "A secure banking application with registration, JWT-based authentication, and balance checking features.",
+  "requestFramePermissions": []
+}
